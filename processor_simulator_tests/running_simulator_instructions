@@ -1,0 +1,20 @@
+How to run the simulator
+
+
+1. Download all test cases files along with sim.py
+
+2. Open Terminal
+
+3. Locate the folder where you saved the test case files and sim.py using Linux commands (e.g. cd)
+
+4. Mark project file executable by typing 
+
+                      chmod u+x sim.py 
+ 
+    into Terminal
+
+5 To run the simulator along with test cases, type
+
+                ./sim.py test_file_name.bin
+
+   into Terminal where test_file_name is the name of the file you wish to test (eg. vars1, loop1)
